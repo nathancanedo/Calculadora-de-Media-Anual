@@ -1,0 +1,55 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://static.wixstatic.com/media/3ccf93_5937bad3208e47dc8739a545e8fb76ee~mv2.gif');
+  background-color: #573e2e;
+  background-size: 250vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:black;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.notaFixada {
+  color:white;
+  font-size:70px;
+    
+}
+
+.nome {
+  color:#367aa8
+}
+
+label {
+  color:white;
+}
+
+.aprovacao {
+  color:black;
+}
